@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to CRPWL'
+landing-title: 'Welcome to the Central Roleplay Community Official Whitelisted'
 description: null
 image: null
 author: null
