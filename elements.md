@@ -3,6 +3,7 @@ layout: page
 title: Elements
 image: assets/images/FPMD5.png
 nav-menu: true
+permalink: /elements
 ---
 
 <!-- Main -->
