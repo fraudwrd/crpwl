@@ -38,5 +38,5 @@ sass:
   style: compressed
 
 exclude:
-- # "*.gemspec"
+- "*.gemspec"
 - README.md 
