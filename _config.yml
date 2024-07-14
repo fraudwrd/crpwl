@@ -13,6 +13,42 @@ zip_code:
 country: 
 phone: 
 
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
