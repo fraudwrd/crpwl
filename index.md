@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the Central Roleplay Community Official Whitelisted'
+landing-title: 'Welcome to the CRPC Official Whitelisted'
 description: null
 image: null
 author: null
