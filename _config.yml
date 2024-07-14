@@ -1,9 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+title: CRPWL
+subtitle: OK
+email: no@gmail.com
+description: We rp
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://crpwl.com
 author:
 street_address: 
@@ -38,5 +38,5 @@ sass:
   style: compressed
 
 exclude:
-- "*.gemspec"
+- # "*.gemspec"
 - README.md 
