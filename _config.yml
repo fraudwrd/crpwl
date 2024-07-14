@@ -16,7 +16,7 @@ phone:
 # Team names, titles and social links
 people:
 - name: Kay Garland
-  pic: FMPD1.png
+  pic: assets/images/FMPD1.png
   position: Lead Designer
   social:
     - title: twitter
@@ -27,7 +27,7 @@ people:
       url: #
 
 - name: Larry Parker
-  pic: FMPD2.png
+  pic: assets/images/FMPD2.png
   position: Lead Marketer
   social:
     - title: twitter
@@ -38,7 +38,7 @@ people:
       url: #
 
 - name: Diana Petersen
-  pic: FMPD3.png
+  pic: assets/images/FMPD3.png
   position: Lead Developer
   social:
     - title: twitter
