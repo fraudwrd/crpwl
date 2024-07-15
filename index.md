@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Welcome to the CRPC Official Whitelisted'
 description: null
-image: null
+image: assets/images/FMPD1.png
 author: null
 show_tile: false
 ---
