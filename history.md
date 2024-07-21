@@ -16,7 +16,7 @@ permalink: /history
 		<header class="major">
 			<h2>The Beginning</h2>
 		</header>
-		<p>On March 12th, 2022, the first ever whitelisted session was hosted, and was announced publically in the announcements channel in the main CRPC Discord server. This was oringinally done 
+		<p>On March 12th, 2022, the first ever whitelisted session was hosted, and was announced publically in the announcements channel in the main CRPC Discord server. This was originally done 
 		as a census to see how many users would like a whitelisted server, and after that, the whitelisted continued on.</p>
 	</div>
 </section>
