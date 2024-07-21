@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Frequently Asked Questions
+description: 'Click here for frequently asked questions and their answers!'
 image: assets/images/FMPD6.png
 nav-menu: true
 permalink: /faq
