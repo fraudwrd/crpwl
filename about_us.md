@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: landing
-description: 'Click here to learn more about the CRPC Official Whitelisted!'
+description: 'All relevant information about the CRPC Official Whitelisted!'
 image: assets/images/FMPD2.png
 nav-menu: true
 permalink: /about-us
