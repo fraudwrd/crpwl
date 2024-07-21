@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: Frequently Asked Questions
 image: assets/images/FMPD6.png
 nav-menu: true
 permalink: /faq
