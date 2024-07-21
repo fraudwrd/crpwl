@@ -1,10 +1,10 @@
 ---
-title: About Us
+title: History
 layout: landing
-description: 'All relevant information about the CRPC Official Whitelisted!'
+description: 'The history of the CRPC Official Whitelisted!'
 image: assets/images/FMPD2.png
 nav-menu: true
-permalink: /about-us
+permalink: /history
 ---
 
 <!-- Main -->
