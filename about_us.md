@@ -1,10 +1,10 @@
 ---
-title: Landing
+title: About Us
 layout: landing
-description: 'test<br />test'
-image: assets/images/FMPD1.png
+description: 'Click here to learn more about the CRPC Official Whitelisted!'
+image: assets/images/FMPD2.png
 nav-menu: true
-permalink: /landing
+permalink: /about-us
 ---
 
 <!-- Main -->
