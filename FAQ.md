@@ -14,33 +14,44 @@ permalink: /faq
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Frequently Asked Questions</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">What is the whitelisted?</h2>
+<p>The CRPC Official Whitelisted server is a strict no-nonsense roleplay server that operates in a private server inside of the Roblox experience 'Maple County'. We are the
+only officially endorsed private server within the Central Roleplay Community. If this is your first time hearing about us, and might be interested in what we do, feel free to 
+join using the Discord server invite code discord.gg/crpwl
+
+The rest of this page will be dedicated to answering key questions for new and returning players.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>How do I get whitelisted?</h3>
+		<p>We, under new management, have decided to deprecate the whitelist process for the official roleplay server. However, we still maintain this 
+		whitelisted aspect for all emergency service departments. Now, you must be in our Discord, Roblox group, and Sonoran CAD server in order to participate in 
+		roleplay sessions. The Roblox group and Sonoran CAD information can be found in our Discord.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Can I be a moderator or VIP?</h3>
+		<p>Moderators are either handpicked out of prominent members of the community or through applications that we will announce in our Discord server. VIP's are special individuals that 
+		have contributed to the server or community in a way that has positively impacted a large amount of people.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Do I need Voice Chat?</h3>
+		<p>Yes and no. Under new management, we have decided to drop the voice chat required policy for CIVILIANS. Emergency service personnel are still required to use voice chat when 
+		interacting with others. Civilians however, can join a scene voice channel and respond via Roblox chat or the #roleplay-chat channel in our Discord. Roblox voice 
+		chat is not permitted.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>How do I join an emergency service department?</h3>
+		<p>To join an emergency service department, you must join the Roblox group, then update your roles in our Discord server. From there, navigate to the #departments 
+		channel where you can select what department you would like to apply to. When you select a department, Appy will DM you to proceed with the application.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Help! My question wasn't listed here!</h3>
+		<p>Not all frequently asked questions are listed here, and you can find the complete list in our Discord server that is linked at the top of this page. You can 
+		also ask around in the community if your question still isn't answered!</p>
 	</div>
 </div>
 
