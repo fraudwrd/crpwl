@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Elements
-image: assets/images/FMPD5.png
+title: FAQ
+image: assets/images/FMPD6.png
 nav-menu: true
-permalink: /elements
+permalink: /faq
 ---
 
 <!-- Main -->
