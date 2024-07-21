@@ -15,38 +15,21 @@ phone:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: assets/images/FMPD1.png
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+- name: fraudwrd
+  pic: null
+  position: Lead Director
+  # social:
 
-- name: Larry Parker
-  pic: assets/images/FMPD2.png
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+- name: CrxzyCookiie
+  pic: null
+  position: Assistant Director
+ # social:
 
-- name: Diana Petersen
-  pic: assets/images/FMPD3.png
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+- name: In4antry
+  pic: null
+  position: Assistant Director
+ # social:
+
 
 
 # homepage tiles
