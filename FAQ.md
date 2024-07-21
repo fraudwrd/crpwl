@@ -21,7 +21,7 @@ permalink: /faq
 <h2 id="content">What is the whitelisted?</h2>
 <p>The CRPC Official Whitelisted server is a strict no-nonsense roleplay server that operates in a private server inside of the Roblox experience 'Maple County'. We are the
 only officially endorsed private server within the Central Roleplay Community. If this is your first time hearing about us, and might be interested in what we do, feel free to 
-join using the Discord server invite code **discord.gg/crpwl**
+join using the Discord server invite code discord.gg/crpwl.
 
 The rest of this page will be dedicated to answering key questions for new and returning players.</p>
 <div class="row">
